@@ -35,5 +35,4 @@ def get_folder_contents(folder):
     return 
     
 
-
 print(get_folder_contents(*args.path))
